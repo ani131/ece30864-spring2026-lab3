@@ -1,1 +1,8 @@
-git checkout -b CSP-17-ece-30864-lab-3
+1.
+Pros
+Super Flexible: You can change project goals anytime without ruining everything.
+Early Previews: You see working parts early instead of waiting until the end.
+
+Cons
+No Set Deadline: It is hard to know the final cost or finish date.
+Too Many Meetings: Daily check-ins and constant talking take up a lot of time.
