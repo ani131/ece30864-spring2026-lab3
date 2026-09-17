@@ -9,3 +9,7 @@ Too Many Meetings: Daily check-ins and constant talking take up a lot of time.
 
 2. 
 The Scrum Master protects the team's process, while the Product Owner decides what features the team actually builds.
+
+3.
+The three main meetings during a sprint are planning at the start, check-ins during the week, and reviews at the end.
+
