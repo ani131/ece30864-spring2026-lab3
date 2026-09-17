@@ -13,3 +13,5 @@ The Scrum Master protects the team's process, while the Product Owner decides wh
 3.
 The three main meetings during a sprint are planning at the start, check-ins during the week, and reviews at the end.
 
+4. 
+An Epic represents a massive project goal that is broken down into feature-focused Stories for users, technical Tasks for developers to complete, and Bugs to fix broken code.
