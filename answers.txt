@@ -6,3 +6,6 @@ Early Previews: You see working parts early instead of waiting until the end.
 Cons
 No Set Deadline: It is hard to know the final cost or finish date.
 Too Many Meetings: Daily check-ins and constant talking take up a lot of time.
+
+2. 
+The Scrum Master protects the team's process, while the Product Owner decides what features the team actually builds.
